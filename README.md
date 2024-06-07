@@ -1,7 +1,3 @@
-Certainly! Here's a sample README template for your GitHub profile, highlighting the technologies you are familiar with:
-
----
-
 # Welcome to My GitHub Profile!
 
 Hello! I'm a self-learner with a passion for computer science and technology. I'm a hardware geek who is also diving into the world of software development. My goal is to become a Full Stack Developer and continuously improve my skills.
@@ -39,4 +35,3 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-Feel free to customize this template to better match your personal style and preferences. Replace placeholder links and email with your actual contact information.
