@@ -1,26 +1,42 @@
-Welcome to My GitHub Profile!
+Certainly! Here's a sample README template for your GitHub profile, highlighting the technologies you are familiar with:
+
+---
+
+# Welcome to My GitHub Profile!
+
 Hello! I'm a self-learner with a passion for computer science and technology. I'm a hardware geek who is also diving into the world of software development. My goal is to become a Full Stack Developer and continuously improve my skills.
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
+
 Here are some of the technologies and tools I work with:
 
-Spring Boot
-REST API
-Tailwind CSS
-HTML
-Java
-JavaScript
-🚀 About Me
-🌱 I’m currently learning and expanding my knowledge in full stack development.
-💼 I’m aiming to start a career as a Full Stack Developer.
-📚 I’m committed to lifelong learning and self-improvement.
-📫 How to Reach Me
-Email: [omerfaruk38baran@gmail.com]
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/%C3%B6mer-faruk-baran-890074b3/)
-Twitter: NOPE !!!
-📈 GitHub Stats
+- **Spring Boot**
+- **REST API**
+- **Tailwind CSS**
+- **HTML**
+- **Java**
+- **JavaScript**
 
-📊 Top Languages
+## 🚀 About Me
 
+- 🌱 I’m currently learning and expanding my knowledge in full stack development.
+- 💼 I’m aiming to start a career as a Full Stack Developer.
+- 📚 I’m committed to lifelong learning and self-improvement.
 
-STILL PROGRESSING
+## 📫 How to Reach Me
+
+- Email: [Gmail](omerfaruk38baran@gmail.com)
+- LinkedIn: [My LinkenIn]([https://www.linkedin.com/in/yourprofil](https://www.linkedin.com/in/%C3%B6mer-faruk-baran-890074b3/)e)
+- 
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+Feel free to customize this template to better match your personal style and preferences. Replace placeholder links and email with your actual contact information.
