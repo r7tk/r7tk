@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 How to Reach Me
 
-- [My Mail Address](omerfaruk38baran@gmail.com)
+- [My Mail](mailto:omerfaruk38baran@gmail.com)
 - [LinkenIn](https://www.linkedin.com/in/%C3%B6mer-faruk-baran-890074b3/)
   
 
