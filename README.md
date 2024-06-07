@@ -21,8 +21,8 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](omerfaruk38baran@gmail.com))
-- LinkedIn: [My LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/%C3%B6mer-faruk-baran-890074b3/))
+- [My Mail Address](omerfaruk38baran@gmail.com)
+- [LinkenIn](https://www.linkedin.com/in/%C3%B6mer-faruk-baran-890074b3/)
   
 
 ## 📈 GitHub Stats
